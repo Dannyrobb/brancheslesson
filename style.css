@@ -2,3 +2,7 @@
   background: #abb1b8;
   /* height: 10px; */
 }
+
+* {
+  background-color: red;
+}
